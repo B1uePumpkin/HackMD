@@ -1,5 +1,8 @@
 # Day-8 新聞大亂鬥-MixerBox News、NewsBreak、World News
 
+[![hackmd-github-sync-badge](https://hackmd.io/qAhdbCF1TT2RE-pVYFz_mw/badge)](https://hackmd.io/qAhdbCF1TT2RE-pVYFz_mw)
+
+
 
 ## 0. 前言
 
