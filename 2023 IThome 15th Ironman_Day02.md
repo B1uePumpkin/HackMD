@@ -1,5 +1,8 @@
 # Day-2 找到$9 \frac{3}{4}$月台-OpenAI簡介
 
+[![hackmd-github-sync-badge](https://hackmd.io/75pzuOcQSdiQiSMcm-wiWA/badge)](https://hackmd.io/75pzuOcQSdiQiSMcm-wiWA)
+
+
 
 
 ## 0. 前言
