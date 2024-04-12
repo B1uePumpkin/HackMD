@@ -1,5 +1,8 @@
 # Day-4 Prompt詠唱術
 
+[![hackmd-github-sync-badge](https://hackmd.io/xfQc1bOQSQiQ0zywKDSNsw/badge)](https://hackmd.io/xfQc1bOQSQiQ0zywKDSNsw)
+
+
 ## 0. 前言
 前面講解完ChatGPT背後的原理後，今天開始進入詠唱環節吧~
 基本上只要掌握兩大原則就能充分發揮他的能力:
