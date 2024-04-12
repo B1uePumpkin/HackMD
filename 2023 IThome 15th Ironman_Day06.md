@@ -1,5 +1,8 @@
 # Day-6 Prompt輔助工具-AIPRM
 
+[![hackmd-github-sync-badge](https://hackmd.io/P7ndVMfBSNaFbaB1o4qGYQ/badge)](https://hackmd.io/P7ndVMfBSNaFbaB1o4qGYQ)
+
+
 ## 0. 前言
 雖然今天接下來要講的這個不是ChatGPT plugin的一種，但是這是一個很重要的工具，可以讓你的prompt品質有顯著的提升，讓你更容易得到你想要的回應。
 
