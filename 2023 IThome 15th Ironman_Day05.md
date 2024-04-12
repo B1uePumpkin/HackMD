@@ -1,5 +1,8 @@
 # Day-5 成為進階魔法師-淺談付費方案
 
+[![hackmd-github-sync-badge](https://hackmd.io/oRcywrIcT5SVx6mgd6-pZg/badge)](https://hackmd.io/oRcywrIcT5SVx6mgd6-pZg)
+
+
 
 ## 0. 前言
 OpenAI於2023年2月1日推出了一個名為ChatGPT Plus的付費訂閱方案，價格為每月20美元。這個方案主要提供了以下幾個優勢：
