@@ -1,5 +1,8 @@
 # Day-1 轉生到名為ChatGPT的魔法世界
 
+[![hackmd-github-sync-badge](https://hackmd.io/zwjWtynxTq6Ztaldz4WZZg/badge)](https://hackmd.io/zwjWtynxTq6Ztaldz4WZZg)
+
+
 ## 0. 前言
 大阿好我BluePumpkin，接下來30天會向各位介紹我這半年來對於ChatGPT的各種使用心得及感想。大致上會這樣安排:
 - 第1~5天--->先簡單介紹一下基本的<ruby>雀居<rp>(</rp><rt>ChatGPT</rt><rp>)</rp></ruby>使用知識
