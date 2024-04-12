@@ -1,5 +1,8 @@
 # Day-7 該是時候展現真正的實力了-WebPilot
 
+[![hackmd-github-sync-badge](https://hackmd.io/5qHcibnNQnmwz4S8SoCNfg/badge)](https://hackmd.io/5qHcibnNQnmwz4S8SoCNfg)
+
+
 ## 0. 前言
 今天要介紹的是目前為止我覺得最泛用、最推薦的plugin之一==WebPilot==，接下來就讓我開始介紹它的強大吧。
 
