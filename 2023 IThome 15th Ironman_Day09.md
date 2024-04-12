@@ -1,5 +1,8 @@
 # Day-9 沒圖沒真相-image search、GIF Search
 
+[![hackmd-github-sync-badge](https://hackmd.io/yKcxieBnRkOu6AqIwORVGA/badge)](https://hackmd.io/yKcxieBnRkOu6AqIwORVGA)
+
+
 
 ## 0. 前言
 前面上了網、查了新聞，那肯定也要找個圖片對吧!(其實好像沒什麼關係)
