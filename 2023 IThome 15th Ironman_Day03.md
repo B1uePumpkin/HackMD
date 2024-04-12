@@ -1,5 +1,8 @@
 # Day-3 魔法的起源GPT-3.5
 
+[![hackmd-github-sync-badge](https://hackmd.io/FEnFasQ-Rgu3gQTh29ndoQ/badge)](https://hackmd.io/FEnFasQ-Rgu3gQTh29ndoQ)
+
+
 
 ## 0. 前言
 在開始詠唱魔法之前，我們還有一件必須了解的事情。那就是ChatGPT這個魔法世界背後運作的原理，就像是你總不可能在哈利波特的世界裡使用獵人的念能力吧，這樣搞不好佛地魔的魔仗還沒舉起來就直接被西索伸縮自如的愛給搶走了。所以接下來先帶大家認識一些專有名詞:star: -_-:droplet: 
