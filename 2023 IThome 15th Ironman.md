@@ -1,6 +1,9 @@
 IT home 鐵人賽
 ===
 
+
+[![hackmd-github-sync-badge](https://hackmd.io/93s5LZvqRNW4PoPfNBvD_Q/badge)](https://hackmd.io/93s5LZvqRNW4PoPfNBvD_Q)
+
 - [IT home 鐵人賽](/93s5LZvqRNW4PoPfNBvD_Q)
 
 :::info
